@@ -30,9 +30,13 @@ The dataset columns include the names of pollutants, types of measures used, and
     
 # Steps Required:
 1.Data Loading and Initial Overview
+
 2.Data Pre-processing
+
 3.Exploratory Data Analysis (EDA)
+
 4.Visualizations
+
 5.Insight Generation and Report
 
 # PHASE II
