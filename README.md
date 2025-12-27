@@ -1,7 +1,7 @@
-##AIR-QUALITY-ASSESSMENT-IN-THE-CITY-OF-NEW-YORK-A-SPATIAL-AND-SEASONAL-ANALYSIS
+## AIR-QUALITY-ASSESSMENT-IN-THE-CITY-OF-NEW-YORK-A-SPATIAL-AND-SEASONAL-ANALYSIS
 
-#PHASE I
-#Aim of the Project
+# PHASE I
+# Aim of the Project
 * Conduct a comprehensive spatial and temporal analysis of air quality measurements across New York City.
 
 * Quantify long-term trends in pollution exposure over multiple years.
