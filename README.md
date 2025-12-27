@@ -79,7 +79,7 @@ The dataset columns include the names of pollutants, types of measures used, and
 * UHF42 and CD generally exhibit higher mean values for primary pollutants such as nitrogen dioxide (NO2) and fine particles (PM2.5).
 
 # PHASE IV
-# Insight Generation and Report  
+# Summary and Recommendations: 
 # Project Summary:
 Analyzed a consistent New York City environmental dataset of 18,862 records. After resolving data types and filtering pollutants, the study identified key contributors and significant health-related trends.
 
