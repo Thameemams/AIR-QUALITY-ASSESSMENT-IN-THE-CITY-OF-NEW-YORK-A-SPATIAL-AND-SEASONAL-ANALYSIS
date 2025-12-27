@@ -1,0 +1,2 @@
+# AIR-QUALITY-ASSESSMENT-IN-THE-CITY-OF-NEW-YORK-A-SPATIAL-AND-SEASONAL-ANALYSIS
+An analysis of pollution trends in New York City.
