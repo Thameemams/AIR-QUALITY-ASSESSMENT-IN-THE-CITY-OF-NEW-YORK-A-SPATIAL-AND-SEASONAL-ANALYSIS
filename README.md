@@ -19,6 +19,7 @@ Air pollution levels vary significantly across regions and seasons, yet the lack
 * Data Type: Comma Separated Values
 * Rows: 18863
 * Columns: 11
+  
 The dataset columns include the names of pollutants, types of measures used, and units of measurement, all studied across various locations in New York City, both spatially and temporally.
 * Data Collected From: An official website of the United States government.
 * Major Geographical Types included:
