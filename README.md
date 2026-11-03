@@ -58,7 +58,7 @@ The dataset columns include the names of pollutants, types of measures used, and
 * Median value: 26.26
 * Standard deviation: 23.56
 * Minimum value of pollution data: 0.00
-*Maximum value of pollution data: 424.70
+* Maximum value of pollution data: 424.70
 
 # Data Pre-processing part Overview:
 * The dataset is devoid of missing values.
