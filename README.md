@@ -55,7 +55,7 @@ The dataset columns include the names of pollutants, types of measures used, and
 
 # Pollution data overview of New York City:
 * Average of pollution data: 21.05
-* Median value: 26.26
+* Median value: 14.79
 * Standard deviation: 23.56
 * Minimum value of pollution data: 0.00
 * Maximum value of pollution data: 424.70
