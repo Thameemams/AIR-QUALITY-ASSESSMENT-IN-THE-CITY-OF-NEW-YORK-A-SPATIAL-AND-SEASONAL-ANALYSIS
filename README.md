@@ -63,7 +63,7 @@ The dataset columns include the names of pollutants, types of measures used, and
 # Data Pre-processing part Overview:
 * The dataset is devoid of missing values.
 * No duplicate rows are also not detected.
-* Data type of Start_Date and Data Value are changed to datatime and int respectively.
+* Data type of Start_Date and Data Value are changed to datetime and int respectively.
 * Also the the Pollution Data Values are rounded to the nearby integers.
 * Pollution data values of Nitrogen Dioxide(NO2) and Ozone(O3) are filtered out.
 * Data values are aggregated based on the name of pollutants, place names, geographic areas and time period.
